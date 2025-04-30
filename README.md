@@ -54,11 +54,4 @@ A deep learning project that detects **brain tumors** (Glioma, Meningioma, Pitui
 ---
 ![image](https://github.com/user-attachments/assets/8444769d-1ced-4abd-a790-37369bdd10df)
 
----
 
-## 📁 Dataset
-
-This project uses the publicly available **Brain Tumor MRI Dataset** from Kaggle:
-👉 [Kaggle Dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
-
-Dataset folders:
